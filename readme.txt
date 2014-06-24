@@ -1,12 +1,4 @@
-Git is a  vresion control system
-git is free 
-
-
-
-<<<<<<< HEAD
-hello world
-
- //<summary>
+        //<summary>
         //验证用户名密码是否正确
         //</summary>
         //<param name="nUserID">用户ID</param>
@@ -49,6 +41,3 @@ hello world
                 return false;
             }
         }
-=======
-
->>>>>>> 9b3c8b6f02bd56f9e9331273f8cd1deb276c688c
