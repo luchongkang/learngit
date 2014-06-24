@@ -1,5 +1,6 @@
 Git is a  vresion control system
 git is free 
+<<<<<<< HEAD
 hello world
 
  //<summary>
@@ -45,3 +46,6 @@ hello world
                 return false;
             }
         }
+=======
+
+>>>>>>> 9b3c8b6f02bd56f9e9331273f8cd1deb276c688c
